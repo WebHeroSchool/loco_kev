@@ -98,8 +98,8 @@ body{
   position: absolute;
   width: 475px;
   height: 164px;
-  left: 176px;
-  top: 5px;
+  left: 324px;
+  top: -45px;
   font-family: Montserrat;
   font-style: normal;
   font-weight: bold;
@@ -111,8 +111,8 @@ body{
   position: absolute;
   width: 467px;
   height: 127px;
-  left: 181px;
-  top: 231px;
+  left: 326px;
+  top: 174px;
   font-family: Montserrat;
   font-style: normal;
   font-weight: normal;
@@ -124,8 +124,8 @@ body{
   position: absolute;
   width: 203px;
   height: 44px;
-  left: 181px;
-  top: 418px;
+  left: 322px;
+  top: 352px;
   border: 1.5px solid #000000;
   box-sizing: border-box;
 
@@ -148,17 +148,16 @@ body{
   position: absolute;
   width: 43px;
   height: 0px;
-  left: 254px;
-  top: -21px;
+  left: 255px;
+  top: -1px;
   text-transform: uppercase;
   font-family: Montserrat;
-  font-style: normal;
-  font-weight: 500;
   font-size: 13px;
-  line-height: 0px;
+  white-space: pre;
 }
 
 .vector_2-1 {
-  left: 487px;
+  left: 446px;
+  top: 9px;
   position: relative; 
 }
